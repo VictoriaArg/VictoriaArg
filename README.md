@@ -3,7 +3,7 @@
 <h1 align="center">Hi there fellas 👋, I'm Victoria</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 <p>
- I also have a bachelor's degree on Industrial Design. I'm passionate about technology, product design and user experience. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it. I'm really interested at mobile development, I got a taste of React Native in my last project and now I'm really into it.
+ I also have a bachelor's degree on Industrial Design. I'm passionate about technology, product design and user experience. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it. I'm really interested in mobile development, I got a taste of React Native in my last project and now I'm really into it.
  My goal for this 2021 is working remotely and develop personal projects with tons of cool 2d animations. In the near future I'd like to become a diginal nomad for a few years.</p>
 
 
