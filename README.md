@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **GraphQL, React Native, 2D animation**
 
-- 📫 How to reach me **argasvic@gmail.com**
+- 📫 You can contact me at **argasvic@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/argasvic/](https://www.linkedin.com/in/argasvic/)
 
-- ⚡ Fun fact **I really enjoy playing League of Legends, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
+- ⚡ Fun facts: **I really enjoy playing League of Legends, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
 
 
 <h3 align="left">Languages and Tools:</h3>
