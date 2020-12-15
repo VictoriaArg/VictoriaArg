@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 <p>
  I also have a bachelor's degree on Industrial Design. I'm passionate about technology, product design and user experience. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it. I'm really interested in mobile development, I got a taste of React Native in my last project and now I'm really into it.
- My goal for this 2021 is working remotely and develop personal projects with tons of cool 2d animations. In the near future I'd like to become a diginal nomad for a few years.</p>
+ My goal for this 2021 is working remotely and develop personal projects with tons of cool 2d animations. In the near future I'd like to become a digital nomad for a few years.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriaarg&label=Profile%20views&color=0e75b6&style=flat" alt="victoriaarg" /> </p>
