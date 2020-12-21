@@ -3,10 +3,12 @@
 <h1 align="center">Hi there fellas 👋, I'm Victoria</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 <p>
- I also have a bachelor's degree on Industrial Design. I'm passionate about technology, product design and user experience. I believe design should be applied in collaboration with different subject's approaches to achieve integral solutions.
-I am a self-taught person who likes taking up new challenges and finding practical solutions in team oriented environments.
+ I also have a bachelor's degree on Industrial Design. I'm passionate about technology, product design and user experience. I believe design should be applied in collaboration with different subject's approaches to achieve integral solutions. </p>
+ 
+<p> I am a self-taught person who likes taking up new challenges and finding practical solutions in team oriented environments.
 Creativity and adaptability are my main strengths. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it.
-My goal for this 2021 is working remotely and develop personal projects with tons of cool 2d animations.</p>
+</p>
+<p>My goal for this 2021 is working remotely and develop personal projects with tons of cool 2d animations.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriaarg&label=Profile%20views&color=0e75b6&style=flat" alt="victoriaarg" /> </p>
