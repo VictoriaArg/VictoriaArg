@@ -19,7 +19,7 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/argasvic/](https://www.linkedin.com/in/argasvic/)
 
-- ⚡ Fun facts: **I really enjoy playing League of Legends, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
+- ⚡ Fun facts: **I really enjoy playing videogames, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
 
 
 <h3 align="left">Languages and Tools:</h3>
