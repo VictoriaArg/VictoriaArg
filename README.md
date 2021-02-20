@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFVohkdRQWsbQ/profile-displaybackgroundimage-shrink_350_1400/0/1603686693106?e=1613606400&v=beta&t=YXFC52y79nmuOPbVyiLUhXUi1WbFcx6arugIG3JDAyE" alt="VictoriaArg"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGbwVA-vPD_mw/profile-displaybackgroundimage-shrink_200_800/0/1613856918881?e=1619049600&v=beta&t=iXfybd-iR9c0ja3UCUyZYU8tIGsAFBUMPrmHigtl8dM" alt="VictoriaArg"/>
 
 <h1 align="center">Hi there fellas 👋, I'm Victoria</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
