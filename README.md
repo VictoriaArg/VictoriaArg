@@ -34,6 +34,11 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 <img src="https://henry-comics.vercel.app/static/media/Slide1.e2f0e906.png" alt="PortadaHenryComics" height="200"/>
 <br />
 
+- <a href="parrot-family.netlify.app/">**Parrot Family**</a>
+<p>Twitter like application I made to learn how to implement GraphQL and Apollo Server in a Full Stack project.</p>
+<img src="https://user-images.githubusercontent.com/63479442/109399394-63317780-7921-11eb-81ee-5b64b3fe5e4c.jpg" alt="ParrotFamily" height="200"/>
+<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriaarg&show_icons=true&locale=en&layout=compact" alt="victoriaarg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriaarg&show_icons=true&locale=en" alt="victoriaarg" /></p>
