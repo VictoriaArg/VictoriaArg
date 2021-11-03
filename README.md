@@ -11,13 +11,13 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriaarg&label=Profile%20views&color=0e75b6&style=flat" alt="victoriaarg" /> </p>
 
-- 🌱 I’m currently learning **GraphQL, React Native, 2D animation**
+- 🌱 I’m currently learning **Elixir, Phoenix LiveView**
 
 - 📫 You can contact me at **argasvic@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/argasvic/](https://www.linkedin.com/in/argasvic/)
+- 📄 More about me at [https://www.linkedin.com/in/argasvic/](https://www.linkedin.com/in/argasvic/)
 
-- ⚡ Fun facts: **I really enjoy playing videogames, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
+- ⚡ Hobbies: **I really enjoy playing videogames, going to the gym & gardening. I also have a cat named Bolt.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +32,3 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 <img src="https://user-images.githubusercontent.com/63479442/109399394-63317780-7921-11eb-81ee-5b64b3fe5e4c.jpg" alt="ParrotFamily" height="200"/>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriaarg&show_icons=true&locale=en&layout=compact" alt="victoriaarg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriaarg&show_icons=true&locale=en" alt="victoriaarg" /></p>
