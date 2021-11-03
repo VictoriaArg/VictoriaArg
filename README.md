@@ -1,4 +1,4 @@
-<h1 align="center">Hi there fellas 👋, I'm Victoria</h1>
+<h1 align="center">Hi there 👋, I'm Victoria</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 <p>
  I also have a bachelor's degree in Industrial Design. I'm passionate about technology, product design and user experience. I believe design should be applied in collaboration with different subject's approaches to achieve integral solutions. </p>
