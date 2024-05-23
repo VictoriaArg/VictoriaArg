@@ -8,6 +8,6 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 </p>
 
 <p>
- Random data: my profile picture is a fan art of Hange Zoe, an anime character that stands out for her passion about investigation, engineering and science. She's also an empathic and purpose-driven leader. She can be quite excentric too. I think we have a lot in common.
+ Random data: my profile picture is a fan art of Hange Zoe.
 </p> 
 
