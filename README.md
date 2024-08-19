@@ -9,6 +9,6 @@ As a self-taught programmer I enjoy taking up new challenges and finding practic
 </p>
 
 <p>
-I'm currently looking for new opportunities to grow as an Elixir developer, but I'm also interested in front end develpment with javascript frameworks.
+I'm currently looking for new opportunities to grow as an Elixir developer, but I'm also interested in front end development with javascript frameworks.
 </p> 
 
